@@ -1,3 +1,0 @@
-class AnimalJungle extends Animal {
-
-}
